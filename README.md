@@ -28,6 +28,15 @@
 <img width="342" height="47" alt="image" src="https://github.com/user-attachments/assets/eed4d8dc-248d-4546-b745-f34c749441b7" />
 
 Список использованных источников:
+
+Задание 3
+Примените декоратор к замыканию.
+<img width="553" height="702" alt="image" src="https://github.com/user-attachments/assets/1758a766-48e3-4041-bf15-5742627a5510" />
+
+
+Вывод программы:
+<img width="220" height="270" alt="image" src="https://github.com/user-attachments/assets/459f4032-6353-4d4f-b24e-04efafb4a119" />
+
 1) https://docs.python.org/3/tutorial/controlflow.html#defining-functions
 2) https://docs.python.org/3/library/tracemalloc.html
 3) https://docs.python.org/3/glossary.html#term-decorator
